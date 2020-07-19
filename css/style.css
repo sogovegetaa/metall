@@ -47,7 +47,9 @@ html {
 .top-location {
 	padding-left: 5px;
 }
-
+.proj-3-3-img {
+	object-fit: cover ;
+}
 .bg-darkmode {
 	background: rgba(0, 0, 0, 0)!important;
 }
