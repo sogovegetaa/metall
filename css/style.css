@@ -47,9 +47,7 @@ html {
 .top-location {
 	padding-left: 5px;
 }
-.proj-3-3-img {
-	object-fit: cover ;
-}
+
 .bg-darkmode {
 	background: rgba(0, 0, 0, 0)!important;
 }
@@ -768,7 +766,16 @@ html {
 		}
 		.swd {
 			height: 186px!important;
+			margin-bottom: 61px!important;
 		}
+		.pjj1{
+			top: 40px;
+		}
+		.popi {
+			position: relative;
+			top: 10px;
+		}
+		
 		.swd2 {
 			height: 186px!important;
 		}
@@ -808,13 +815,13 @@ html {
 		.blocText2 {
 			position: absolute;
 			top: -170px;
-			left: 22px;
+			left: 15px;
 			right: 30px;
 			bottom: 818px;
 		}
 		.blocText3 {
 			position: absolute;
-			top: -156px;
+			top: -117px;
 			left: 22px;
 			right: 30px;
 			bottom: 802px;
@@ -1008,7 +1015,18 @@ html {
 			height: 454px;
 		}
 		.swd {
-			height: 215px!important;
+			height: 214px!important;
+			margin-bottom: 60px!important;
+		}
+
+			
+		
+		.pjj1{
+			top: 40px;
+		}
+		.popi {
+			position: relative;
+			top: 10px;
 		}
 		.swd2 {
 			height: 186px!important;
@@ -1251,7 +1269,18 @@ html {
 			height: 454px;
 		}
 		.swd {
-			height: 215px!important;
+			height: 214px!important;
+			margin-bottom: 62px!important;
+		}
+
+			
+		
+		.pjj1{
+			top: 40px;
+		}
+		.popi {
+			position: relative;
+			top: 10px;
 		}
 		.swd2 {
 			height: 186px!important;
@@ -1298,7 +1327,7 @@ html {
 		}
 		.blocText3 {
 			position: absolute;
-			top: -98px;
+			top: -61px;
 			left: 22px;
 			right: 30px;
 			bottom: 802px;
@@ -1495,8 +1524,17 @@ html {
 		.dws{
 			height: 345px;
 		}
+		
 		.swd {
 			height: 164px!important;
+			margin-bottom: 61px!important;
+		}
+		.pjj1{
+			top: 40px;
+		}
+		.popi {
+			position: relative;
+			top: 10px;
 		}
 		.swd2 {
 			height: 186px!important;
@@ -1538,14 +1576,14 @@ html {
 		.blocText2 {
 			position: absolute;
 			top: -184px;
-			left: 15px;
+			left: -4px;
 			right: 30px;
 			bottom: 818px;
 		}
 		.blocText3 {
 			position: absolute;
-			top: -98px;
-			left: 22px;
+			top: -64px;
+			left: 10px;
 			right: 30px;
 			bottom: 802px;
 			
@@ -1737,9 +1775,19 @@ html {
 		.dws{
 			height: 411px!important;
 		}
+		
 		.swd {
 			height: 194px!important;
+			margin-bottom: 62px!important;
 		}
+		.pjj1{
+			top: 40px;
+		}
+		.popi {
+			position: relative;
+			top: 10px;
+		}
+		
 		.swd2 {
 			height: 186px!important;
 		}
@@ -1779,13 +1827,13 @@ html {
 		.blocText2 {
 			position: absolute;
 			top: -170px;
-			left: 22px;
+			left: 4px;
 			right: 30px;
 			bottom: 818px;
 		}
 		.blocText3 {
 			position: absolute;
-			top: -156px;
+			top: -100px;
 			left: 22px;
 			right: 30px;
 			bottom: 802px;
@@ -1855,8 +1903,11 @@ html {
 		}
 }
 /* =========== IPhone 6 END =========== */
+
 /* =========== IPhone 6s plus START =========== */
-@media screen and (device-aspect-ratio: 16/9) {
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) {
 .main-block {
 			height: 100vh;
 		}
@@ -1978,8 +2029,17 @@ html {
 		.dws{
 			height: 458px!important;
 		}
+		
 		.swd {
 			height: 215px!important;
+			margin-bottom: 63px!important;
+		}
+		.pjj1{
+			top: 40px;
+		}
+		.popi {
+			position: relative;
+			top: 10px;
 		}
 		.swd2 {
 			height: 186px!important;
@@ -2020,13 +2080,13 @@ html {
 		.blocText2 {
 			position: absolute;
 			top: -138px;
-			left: 22px;
+			left: 2px;
 			right: 30px;
 			bottom: 818px;
 		}
 		.blocText3 {
 			position: absolute;
-			top: -98px;
+			top: -60px;
 			left: 22px;
 			right: 30px;
 			bottom: 802px;
@@ -2219,8 +2279,17 @@ html {
 		.dws{
 			height: 411px!important;
 		}
+		
 		.swd {
 			height: 194px!important;
+			margin-bottom: 62px!important;
+		}
+		.pjj1{
+			top: 40px;
+		}
+		.popi {
+			position: relative;
+			top: 10px;
 		}
 		.swd2 {
 			height: 186px!important;
@@ -2260,14 +2329,14 @@ html {
 		}
 		.blocText2 {
 			position: absolute;
-			top: -170px;
-			left: 22px;
+			top: -160px;
+			left: 5px;
 			right: 30px;
 			bottom: 818px;
 		}
 		.blocText3 {
 			position: absolute;
-			top: -156px;
+			top: -106px;
 			left: 22px;
 			right: 30px;
 			bottom: 802px;
@@ -2363,9 +2432,10 @@ and (max-device-width : 1024px)  {
 	}
 	.blocText2 {
 		top: -164px;
+		left: 4px;
 	}
 	.blocText3 {
-		top: -164px;
+		top: -117px;
 	}
 	.about-title:before {
 		bottom: 260px;
@@ -2430,5 +2500,8 @@ and (max-device-width : 1366px)  {
 	}
 	.services-title {
 		font-size: 23px;
+	}
+	.popi {
+		margin-bottom: 54px!important;
 	}
 }
