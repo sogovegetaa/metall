@@ -772,8 +772,8 @@ html {
 			top: 40px;
 		}
 		.popi {
-			position: relative;
-			top: 10px;
+			position: relative!important;
+			top: 10px!important;
 		}
 		
 		.swd2 {
@@ -1025,8 +1025,8 @@ html {
 			top: 40px;
 		}
 		.popi {
-			position: relative;
-			top: 10px;
+			position: relative!important;
+			top: 10px!important;
 		}
 		.swd2 {
 			height: 186px!important;
@@ -1279,8 +1279,8 @@ html {
 			top: 40px;
 		}
 		.popi {
-			position: relative;
-			top: 10px;
+			position: relative!important;
+			top: 10px!important;
 		}
 		.swd2 {
 			height: 186px!important;
@@ -1533,8 +1533,8 @@ html {
 			top: 40px;
 		}
 		.popi {
-			position: relative;
-			top: 10px;
+			position: relative!important;
+			top: 10px!important;
 		}
 		.swd2 {
 			height: 186px!important;
@@ -1784,8 +1784,8 @@ html {
 			top: 40px;
 		}
 		.popi {
-			position: relative;
-			top: 10px;
+			position: relative!important;
+			top: 10px!important;
 		}
 		
 		.swd2 {
@@ -2038,8 +2038,8 @@ and (max-device-width : 736px) {
 			top: 40px;
 		}
 		.popi {
-			position: relative;
-			top: 10px;
+			position: relative!important;
+			top: 10px!important;
 		}
 		.swd2 {
 			height: 186px!important;
@@ -2288,8 +2288,8 @@ and (max-device-width : 736px) {
 			top: 40px;
 		}
 		.popi {
-			position: relative;
-			top: 10px;
+			position: relative!important;
+			top: 10px!important;
 		}
 		.swd2 {
 			height: 186px!important;
